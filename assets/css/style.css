@@ -95,29 +95,29 @@ body {
   /* BEGIN FOOTER */
   .footer {
     /* Positioning */
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
   
     /* Box-model */
-    width: 100%;
-    height: 60px;
+    /* width: 100%;
+    height: 60px; */
   
     /* Visual */
     /* background-color: #666; */
   }
   
-  .text-muted-footer {
+  /* .text-muted-footer { */
     /* Box-model */
-    margin-top: 15px;
+    /* margin-top: 15px; */
   
     /* Typography */
-    color: #fff;
+    /* color: #fff; */
   }
   
   .two-toned-footer-color {
     /* Box-model */
-    height: 6px;
-    padding-top: 3px;
+    /* height: 6px;
+    padding-top: 3px; */
   
     /* Visual */
     /* background-color: black; */
@@ -127,62 +127,62 @@ body {
   
   /* --- PAGE-SPECIFIC STYLES --- */
   /* ABOUT-ME PAGE */
-  .about-me-header {
+  /* .about-me-header {
     /* Positioning */
-    margin-bottom: 33px;
-    font-family: 'Libre Baskerville', serif;
+    /* margin-bottom: 33px;
+    font-family: 'Libre Baskerville', serif; */
   
     /* Typography */
-    font-size: 32px;
+    /* font-size: 32px;
     font-weight: bold;
     color: black;
-  }
+  } */
   
   #about-image {
     /* Positioning */
-    float: left;
+    /* float: left; */
   
     /* Box-model */
-    width: 200px;
+    /* width: 200px;
     margin: 0 20px 10px 0;
-  }
+  } */ */
   /* END ABOUT-ME PAGE */
   
   
   /* PORTFOLIO PAGE */
-  .port-image {
+  /* .port-image {
     margin: 20px auto;
-  }
+  } */
   /* END PORTFOLIO PAGE */
   
   
-  /* CONTACT FORM PAGE  */
+  /* CONTACT FORM PAGE 
   .form-control {
     /* give input boxes right angles */
-    border-radius: 0;
+    /* border-radius: 0; */
   
     /* keep from horizontally resizing text area */
-    min-width: 100%;
-    max-width: 100%;
+    /* min-width: 100%;
+    max-width: 100%; */
   }
   
   .submit-btn {
     /* Box-model */
-    padding: 15px 30px;
+    /* padding: 15px 30px;
     font-size: 16px;
-    font-weight: lighter;
+    font-weight: lighter; */
   
     /* Typography */
-    color: #fff;
+    /* color: #fff; */
   
     /* Visual */
-    background-color: black;
+    /* background-color: black;
     border: 0;
-  }
+  } */ */
   
-  .submit-btn:hover {
+  /* .submit-btn:hover {
     opacity: .7;
-  }
+  } */
   
   /* END CONTACT FORM PAGE */
   
