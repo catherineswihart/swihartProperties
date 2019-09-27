@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    height: 100vh;
+    background: ;
+    /* background-image: url("../images/blueprint.jpg"); */
+  }
+  
+  /* .left {
+    flex: 0.25;
+    background-color: gray;
+  } */
+  
+  .right {
+    flex: 5;
+    background-color:;
+    position: relative;
+  }
+  
+  .chat-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    flex-direction: column;
+    background: darkgray;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  .chat-header {
+    flex: 0;
+    /* background-color: darkgray; */
+  }
+  
+  .chat-body {
+    flex: 6;
+    background-color: white;
+    overflow-y: auto;
+    overflow-x: auto;
+  }
+  
+  .chat-footer {
+    flex: 0;
+    /* background-color: darkgray; */
+  }
+  
+  ul, li {
+    font-size: 28px;
+  }

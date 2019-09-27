@@ -22,8 +22,9 @@ body {
   /* create styles for use for all white main boxes */
   .block {
     background-color: #fff;
+    /* background-image: url("../images/blueprint.jpg"); */
   
-    padding: 30px;
+    /* padding: 30px; */
     margin-bottom: 30px;
     text-align: left;
     font-family: 'Lato', sans-serif;
@@ -102,7 +103,7 @@ body {
     height: 60px;
   
     /* Visual */
-    background-color: #666;
+    /* background-color: #666; */
   }
   
   .text-muted-footer {
@@ -119,7 +120,7 @@ body {
     padding-top: 3px;
   
     /* Visual */
-    background-color: black;
+    /* background-color: black; */
   }
   /* END FOOTER */
   /* --- END STYLES FOR ALL PAGES --- */
